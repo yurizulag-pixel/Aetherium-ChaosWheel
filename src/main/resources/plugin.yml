@@ -7,4 +7,4 @@ commands:
     description: Aetherium-ChaosWheel mechanics
 permissions:
   aetherium.chaos.use:
-    default: true
+    default: op
