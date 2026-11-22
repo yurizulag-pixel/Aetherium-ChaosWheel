@@ -1,0 +1,10 @@
+name: AetheriumChaosWheel
+version: 0.1.0-alpha
+main: com.aetherium.chaoswheel.ChaosWheelPlugin
+api-version: '1.21'
+commands:
+  achaos:
+    description: Aetherium-ChaosWheel mechanics
+permissions:
+  aetherium.chaos.use:
+    default: true
